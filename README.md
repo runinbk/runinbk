@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Kevin Gomez R. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=05F769FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Let's+Go+With+The+Code..&hearts;++;Self-taught+Full-Stack+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Let's+Go+With+The+Code..&hearts;++;Self-taught+Full-Stack+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <br>
@@ -34,9 +34,10 @@
 <p align="center">
 
 - **Languages**:
+
   <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,py,c,cs,cpp,dart,bash" />
   </a>
   </p>
 
@@ -46,7 +47,17 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=angular,react,redux,express,bootstrap,tailwind,materialui,css,sass,html,flutter" />
+  </a>
+  </p>
+
+<br>
+
+- **Back-End Development and DataBase**:
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,hibernate,maven,postgres,mongodb,mysql,sqlite" />
   </a>
   </p>
 
@@ -56,7 +67,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=gifirebaset,aws,cloudflare,gcp,heroku,netlify,vercel" />
   </a>
   </p>
 
@@ -66,7 +77,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,figma,vscode,webpack,sequelize,powershell,vim" />
   </a>
   </p>
 
