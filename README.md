@@ -37,7 +37,7 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,py,c,cs,cpp,dart,bash" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,py,dart,bash" />
   </a>
   </p>
 
@@ -47,7 +47,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,react,redux,express,bootstrap,tailwind,materialui,css,sass,html,flutter" />
+  <img src="https://skillicons.dev/icons?i=angular,react,redux,bootstrap,tailwind,materialui,css,sass,html,flutter" />
   </a>
   </p>
 
@@ -57,7 +57,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,hibernate,maven,postgres,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,hibernate,maven,postgres,mongodb,mysql,sqlite,firebase" />
   </a>
   </p>
 
@@ -67,7 +67,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gifirebaset,aws,cloudflare,gcp,heroku,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=gifirebaset,aws,cloudflare,gcp,heroku,netlify,vercel,firebase" />
   </a>
   </p>
 
